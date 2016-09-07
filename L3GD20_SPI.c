@@ -20,11 +20,16 @@ uint8 counter;
 uint8 Gyro_WAI( void )
 {
     uint8 valID;
-    uint16 myval = ( READ | ADDR_CNST | L3GD20_REGISTER_WHO_AM_I ) << 8;
+    uint8 myval = ( READ | ADDR_CNST | L3GD20_REGISTER_WHO_AM_I );
     
+    SS_1_Write(0);
+    CyDelay(1);
     SPI_ClearTxBuffer();
     SPI_WriteTxData( myval );
+    SPI_WriteTxData( 0x00 );
     valID = SPI_ReadRxData();
+    CyDelay(1);
+    SS_1_Write(1);
     
     return valID;
 }
