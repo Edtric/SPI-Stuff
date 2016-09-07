@@ -23,16 +23,18 @@ int main()
     UART_Start();
     CyDelay(250);
     
-    UART_PutChar( 0x0c );
+    UART_PutChar( 0x0C );
     UART_PutString("Power ON\r\n");
 
     for(;;)
     {
-        // UART_PutString("Gyro_WAI...");
+//        Gyro_Read();
+//        
+//        sprintf( message , "X: %d    Y: %d    Z: %d\r\n" , data.x , data.y , data.z );
+
         value = Gyro_WAI();
-        // UART_PutString("done.\r\n");
         sprintf( message , "WAI Value: %d\r\n" , value );
-    
+        
         UART_PutString(message);
         CyDelay(100);
         UART_PutChar( '.' );
