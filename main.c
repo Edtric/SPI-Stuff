@@ -23,15 +23,25 @@ int main()
     UART_Start();
     CyDelay(250);
     
+    UART_PutChar( 0x0c );
     UART_PutString("Power ON\r\n");
 
     for(;;)
     {
+        // UART_PutString("Gyro_WAI...");
         value = Gyro_WAI();
-//        sprintf( message , "WAI Value: %d\r\n" , value );
-//    
-//        UART_PutString(message);
-//        CyDelay(100);
+        // UART_PutString("done.\r\n");
+        sprintf( message , "WAI Value: %d\r\n" , value );
+    
+        UART_PutString(message);
+        CyDelay(100);
+        UART_PutChar( '.' );
+        CyDelay(100);
+        UART_PutChar( '.' );
+        CyDelay(100);
+        UART_PutChar( '.' );
+        CyDelay(100);
+        UART_PutString( "\r\n" );
     }
 }
 
