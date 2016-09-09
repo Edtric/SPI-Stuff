@@ -28,10 +28,6 @@ int main()
 
     for(;;)
     {
-//        Gyro_Read();
-//        
-//        sprintf( message , "X: %d    Y: %d    Z: %d\r\n" , data.x , data.y , data.z );
-
         value = Gyro_WAI();
         sprintf( message , "WAI Value: %d\r\n" , value );
         
