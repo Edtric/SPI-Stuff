@@ -22,6 +22,9 @@
     #define ADDR_CNST   0x00
     #define ADDR_INCR   0x40
     
+    #define SLAVE1_ON   Control_Reg_Write(0)
+    #define SLAVE1_OFF  Control_Reg_Write(1)
+    
     #define L3GD20_SENSITIVITY_250DPS  (0.00875F)      // Roughly 22/256 for fixed point match
     #define L3GD20_SENSITIVITY_500DPS  (0.0175F)       // Roughly 45/256
     #define L3GD20_SENSITIVITY_2000DPS (0.070F)        // Roughly 18/256

@@ -17,10 +17,12 @@ uint8 Gyro_WAI( void )
     uint8 ID;
     uint8 myval = ( READ | ADDR_CNST | L3GD20_REGISTER_WHO_AM_I );
     
+    SLAVE1_ON;
     SPI_ClearTxBuffer();
     SPI_WriteTxData( myval );
     SPI_WriteTxData( 0x00 );
     ID = SPI_ReadRxData();
+    SLAVE1_OFF;
     
     return ID;
 }
