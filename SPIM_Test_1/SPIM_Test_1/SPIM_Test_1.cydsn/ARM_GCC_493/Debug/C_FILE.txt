@@ -1,0 +1,1 @@
+'C:\Users\Rodrigo\Documents\PSoC Creator\SPIM_Test_1\SPIM_Test_1.cydsn\main.c' -o .o -T C_FILE -I 'C:\Users\Rodrigo\Documents\PSoC Creator\SPIM_Test_1\SPIM_Test_1.cydsn' -I 'C:\Users\Rodrigo\Documents\PSoC Creator\SPIM_Test_1\SPIM_Test_1.cydsn\Generated_Source\PSoC5' -f 'C:\Users\Rodrigo\Documents\PSoC Creator\SPIM_Test_1\SPIM_Test_1.cydsn\ARM_GCC_493\Debug\.deps\C_FILE.d'

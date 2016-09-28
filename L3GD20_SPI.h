@@ -72,7 +72,8 @@
     } l3gd20Data;
     
     uint8 Gyro_WAI( void );
-    uint8 Gyro_Start( l3gd20Range_t rng );
+    uint8 Gyro_WAI_Test( void );
+    void Gyro_Start( void );
     void Gyro_Calibrate( void );
     void Gyro_Read( void );
     

@@ -1,0 +1,6 @@
+C:\Users\Rodrigo\Documents\PSoC Creator\SPIM_Test_1\SPIM_Test_1.cydsn\SPIM_Test_1.cyprj|695cbdb4-3860-40b4-bba1-e7253ec59afd
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|f0877822-0257-465b-8dd4-a43d6f275391
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\default\CyReferenceLibrary\CyReferenceLibrary.cylib\CyReferenceLibrary.cyprj|1a37598d-f7d4-4b1c-8227-19c1526febf2
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|60be8aa6-97a3-4760-9101-f85e6c7a2fcd
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|360fb2db-5e00-491d-b2bd-b230463376ed
+C:\Program Files (x86)\Cypress\PSoC Creator\3.3\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|1fdc362c-0465-4857-bc36-c52739afc488

@@ -1,0 +1,70 @@
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/ARM_GCC_493/Debug/main.o : C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyDmac.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyFlash.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyLib.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CySpc.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM_IntClock.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM_PVT.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cmsis_armcc.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cmsis_gcc.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cm3.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cmFunc.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cmInstr.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyPm.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydevice.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydevice_trm.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydisabledsheets.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyfitter.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cypins.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cytypes.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/project.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_miso.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_miso_aliases.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_mosi.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_mosi_aliases.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_rx_int.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_rx_int_aliases.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_sclk.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_sclk_aliases.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_ss.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_ss_aliases.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/device.h C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/main.c 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyDmac.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyFlash.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CyLib.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/CySpc.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM_IntClock.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/SPIM_PVT.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cmsis_gcc.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cm3.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cmFunc.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/core_cmInstr.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/cytypes.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/project.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_miso.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_miso_aliases.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_mosi.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_mosi_aliases.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_rx_int.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_rx_int_aliases.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_sclk.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_sclk_aliases.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_ss.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/Generated_Source/PSoC5/spi_ss_aliases.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/device.h : 
+
+C:/Users/Rodrigo/Documents/PSoC\ Creator/SPIM_Test_1/SPIM_Test_1.cydsn/main.c : 
+
