@@ -17,31 +17,30 @@ int main()
     CyGlobalIntEnable;
     
     char message[50];
-    uint8 value = 0;
+    uint8 wai_value = 0;
     
     SPI_Start();
     UART_Start();
     CyDelay(250);
-    
-    UART_PutChar( 0x0c );
     UART_PutString("Power ON\r\n");
 
+    SPI_ClearTxBuffer();
+    SPI_ClearRxBuffer();
+    
+    wai_value = Gyro_WAI();
+    sprintf( message , "WAI: 0x%02x\r\n" , wai_value );      
+    UART_PutString(message);
+    CyDelay(100);
+    
+    Gyro_Start( L3GD20_RANGE_250DPS );
+    CyDelay(100);
+    
     for(;;)
     {
-        // UART_PutString("Gyro_WAI...");
-        value = Gyro_WAI();
-        // UART_PutString("done.\r\n");
-        sprintf( message , "WAI Value: %d\r\n" , value );
-    
+        Gyro_Read();
+        sprintf( message , "X: %d    Y: %d    Z: %d\r\n" , data.x , data.y , data.z );
         UART_PutString(message);
         CyDelay(100);
-        UART_PutChar( '.' );
-        CyDelay(100);
-        UART_PutChar( '.' );
-        CyDelay(100);
-        UART_PutChar( '.' );
-        CyDelay(100);
-        UART_PutString( "\r\n" );
     }
 }
 
